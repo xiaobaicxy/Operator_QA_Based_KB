@@ -3,6 +3,6 @@
 ### 赛题链接：https://tianchi.aliyun.com/competition/entrance/531904/introduction
 ### 运行环境：python 3.8 + pip -r requirements.txt
 ### 使用方法：bash run.sh
-### 烤年糕配黄豆粉
+### 队名：烤年糕配黄豆粉
 ### 结果：f1=87%
 ### 排名：23/49/431
